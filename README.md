@@ -21,14 +21,11 @@ Permite simular operações de um caixa eletrônico com controle de contas e usu
 
 ### Versão 2 (v2)
 - 💰 Depósitos  
-- 🏧 Saques com limite diário  
-- 📊 Controle de saldo  
-- 📝 Exibição de extrato detalhado  
+- 🏧 Saques com limite diário    
 - 👤 Criação de usuários  
 - 🏦 Criação de contas correntes vinculadas a usuários  
 - 📋 Listagem de contas existentes  
-- ✅ Validação de entradas (ex.: CPF com 11 dígitos)  
-- ⚖ Controle modular de limite de saques e saldo  
+- ✅ Validação de entradas (ex.: CPF com 11 dígitos)   
 ---
 
 ## 📂 Arquivos
