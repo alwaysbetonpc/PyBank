@@ -28,7 +28,6 @@ Permite simular operações de um caixa eletrônico com controle de contas e usu
 - 🏦 Criação de contas correntes vinculadas a usuários  
 - 📋 Listagem de contas existentes  
 - ✅ Validação de entradas (ex.: CPF com 11 dígitos)  
-- 🔢 Menu numérico intuitivo  
 - ⚖ Controle modular de limite de saques e saldo  
 ---
 
